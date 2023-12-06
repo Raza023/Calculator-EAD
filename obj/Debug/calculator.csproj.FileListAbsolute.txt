@@ -1,0 +1,25 @@
+C:\Users\DELL\source\repos\calculator\bin\Debug\calculator.exe.config
+C:\Users\DELL\source\repos\calculator\bin\Debug\calculator.exe
+C:\Users\DELL\source\repos\calculator\bin\Debug\calculator.pdb
+C:\Users\DELL\source\repos\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\DELL\source\repos\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\DELL\source\repos\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\calculator\obj\Debug\calculator.exe
+C:\Users\DELL\source\repos\calculator\obj\Debug\calculator.pdb
+E:\6th semester\Enterprise Application Development\Assignments\calculator\bin\Debug\calculator.exe.config
+E:\6th semester\Enterprise Application Development\Assignments\calculator\bin\Debug\calculator.exe
+E:\6th semester\Enterprise Application Development\Assignments\calculator\bin\Debug\calculator.pdb
+E:\6th semester\Enterprise Application Development\Assignments\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+E:\6th semester\Enterprise Application Development\Assignments\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+E:\6th semester\Enterprise Application Development\Assignments\calculator\obj\Debug\calculator.Form1.resources
+E:\6th semester\Enterprise Application Development\Assignments\calculator\obj\Debug\calculator.Properties.Resources.resources
+E:\6th semester\Enterprise Application Development\Assignments\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+E:\6th semester\Enterprise Application Development\Assignments\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+E:\6th semester\Enterprise Application Development\Assignments\calculator\obj\Debug\calculator.exe
+E:\6th semester\Enterprise Application Development\Assignments\calculator\obj\Debug\calculator.pdb
+E:\University\6th semester\Enterprise Application Development\Assignments\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+E:\University\6th semester\Enterprise Application Development\Assignments\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+E:\University\6th semester\Enterprise Application Development\Assignments\calculator\obj\Debug\calculator.exe
+E:\University\6th semester\Enterprise Application Development\Assignments\calculator\obj\Debug\calculator.pdb
